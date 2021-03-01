@@ -1,0 +1,2 @@
+# myreop
+connecting R-studio
