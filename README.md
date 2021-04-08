@@ -6,3 +6,5 @@ This is another line from R-Studio.
 This is a line from github #ithinkimfiguringthisalloutnow
 I am back to trying to see if R is connected to Git
 
+#
+I am trying to see how github desktop works
